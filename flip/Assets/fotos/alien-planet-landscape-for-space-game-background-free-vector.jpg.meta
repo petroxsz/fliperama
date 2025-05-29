@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7f5d8b596ebedec47b002e2744b12022
+guid: 247adf111f4eaf8458ca3596f79ac08f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2531226157184760155
-    second: craiyon_161549_background_mage_for_mobile_game_about_voleeyball_on_the_beach_with_trees_and_sea_and_mountains__with_0
+      213: -1857234580182452147
+    second: alien-planet-landscape-for-space-game-background-free-vector_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: craiyon_161549_background_mage_for_mobile_game_about_voleeyball_on_the_beach_with_trees_and_sea_and_mountains__with_0
+      name: alien-planet-landscape-for-space-game-background-free-vector_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 1024
+        width: 800
+        height: 355
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a643d698374fdcd0800000000000000
-      internalID: -2531226157184760155
+      spriteID: d4837a74df6c936e0800000000000000
+      internalID: -1857234580182452147
       vertices: []
       indices: 
       edges: []
