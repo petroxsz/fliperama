@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      alien-planet-landscape-for-space-game-background-free-vector_0: -1857234580182452147
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
