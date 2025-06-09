@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Item_Cloistered_Sapphire_0: 7929073651000895601
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

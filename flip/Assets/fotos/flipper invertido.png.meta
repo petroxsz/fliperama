@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flipper invertido_0: 6372844038461774644
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
